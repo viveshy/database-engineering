@@ -1,5 +1,7 @@
 # Database Engineering
-This repository contains a collection of projects and experiments related to web3 technology, including smart contracts, decentralized apps (dApps) and blockchain integration on the web. Explore the use cases and potential of web3 technology through code examples and documentation.
+The repo contains the concepts, skillsets and patterns that you can apply in database engineering. 
+
+
 
 # What's Included
 In this repository, you will find:
