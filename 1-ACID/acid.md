@@ -29,7 +29,13 @@ In case of unexpected termination (e.g. a crash), a Transaction requires ROLLBAC
     **Example**: When generating a report, it may be necessary to retrieve a consistent snapshot of the data as it existed at the time of the transaction.
 
 ## Transaction Visualization
+ 1. BEGIN Transaction
+
 ![BEGIN Transaction](img/transaction_begin.jpeg)
+
+2. COMMIT Transaction
 ![COMMIT Transaction](img/transaction_commit.jpeg)
+  
+
 
 
