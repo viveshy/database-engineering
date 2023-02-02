@@ -35,6 +35,8 @@ In case of unexpected termination (e.g. a crash), a Transaction requires ROLLBAC
 
 2. COMMIT Transaction
 ![COMMIT Transaction](img/transaction_commit.jpeg)
+
+**P.S.** A transaction is always started. Some transactions are user defined and some are defined by the database. So, we are always in a transaction.
   
 
 
